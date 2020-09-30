@@ -1,0 +1,82 @@
+.bg-javascript1 {
+    width: 132px; height: 135px;
+    background: url('css_sprites.png') -732px -10px;
+}
+
+x
+.bg-html5 {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -380px -286px;
+}
+
+x
+.bg-css3 {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -562px -10px;
+}
+
+x
+.bg-react_native {
+    width: 128px; height: 128px;
+    background: url('css_sprites.png') -732px -165px;
+}
+
+x
+.bg-sass {
+    width: 200px; height: 150px;
+    background: url('css_sprites.png') -160px -286px;
+}
+
+x
+.bg-jquery {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -562px -180px;
+}
+
+x
+.bg-bootstrap {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -562px -350px;
+}
+
+x
+.bg-githubW {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -10px -558px;
+}
+
+x
+.bg-npmpng {
+    width: 256px; height: 256px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-avocode {
+    width: 256px; height: 256px;
+    background: url('css_sprites.png') -286px -10px;
+}
+
+x
+.bg-git {
+    width: 202px; height: 89px;
+    background: url('css_sprites.png') -350px -558px;
+}
+
+x
+.bg-photoshop {
+    width: 150px; height: 150px;
+    background: url('css_sprites.png') -180px -558px;
+}
+
+x
+.bg-figma100 {
+    width: 119px; height: 119px;
+    background: url('css_sprites.png') -732px -313px;
+}
+
+x
+.bg-gulp100 {
+    width: 130px; height: 252px;
+    background: url('css_sprites.png') -10px -286px;
+}

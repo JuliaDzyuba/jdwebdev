@@ -1,0 +1,165 @@
+@import 'stylereset.scss';
+@import 'var.scss';
+// font-family: 'Lato', sans-serif;
+// font-family: 'Parisienne', cursive;
+
+body {
+  margin: 0;
+  background: $main-color;
+  color: $white-color;
+  font-size: 16px;
+  font-family: "Lato",Arial, Helvetica, sans-serif;
+  height: 100vh;
+  // overflow: hidden;
+}
+
+h1.title{
+  color: $accent-color;
+ }
+h2{
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: 30px;
+  color: $grey-color;
+}
+
+.page{
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  min-height: 100vh;
+  padding: 50px 50px 50px 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  &::before, &::after {
+    position: absolute;
+    display: block;
+    font-family: 'Parisienne', cursive;
+    font-size: 16px;
+    font-weight: 400;
+    color: $grey-color;
+    line-height: 14px;
+  }
+  &::before{
+    content: '<body>';
+    top: 50px;
+  }
+  &::after{
+    content: '</body>';
+    bottom: 50px;
+  }
+}
+
+.anim__bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    // background-image: url(https://www.androidodex.com/wp-content/uploads/2017/10/Google-Pixel-2-Stock-Wallpaper-18.png);
+    background-image: url(../img/Wallpaper.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 0 15px 30px 0 rgba(5, 16, 44, .15);
+    box-shadow: 0 15px 30px 0 rgba(5, 16, 44, .15);
+    -webkit-animation: bg-animation 15s ease-in-out infinite;
+    animation: bg-animation 60s ease-in-out infinite;
+  }
+
+@-webkit-keyframes bg-animation {
+  0% {
+      background-position: top;
+  }
+
+  50% {
+      background-position: bottom;
+      
+  }
+  100% {
+      background-position: top;
+  }
+}
+
+@keyframes bg-animation {
+  0% {
+      background-position: top;
+      // transform: rotate(0deg)
+  }
+
+  50% {
+      background-position: bottom;
+    // transform: rotate(15deg)
+  }
+  100% {
+      background-position: top;
+      // transform: rotate(0deg)
+  }
+}
+.phrases{
+  position: absolute;
+  max-width: 400px;
+  bottom: 40px;
+  right: 20px;
+  color: $white-color;
+  font-size: 14px;
+  font-weight: 300;
+  // letter-spacing: 3px;
+  font-style: italic;
+  &:before, &::after{
+    position: absolute;
+    display: block;
+    letter-spacing: normal;
+    font-size: 12px;
+    left: -10px;
+    color: $grey-color;
+  }
+  &:before{
+    content: '<blockquote>';
+    top: -20px;
+  }
+  &::after{
+    content: '</blockquote>';
+    bottom: -20px;
+  }
+}
+
+.left {
+  margin-bottom: 30px;
+  width: 50%;
+}
+
+.text {
+  margin-top: 20px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+@media (max-width: 991px){
+  .page{
+    padding: 120px 20px 80px;
+    &::before {
+      top: 100px;
+    }
+  }
+  .left {
+    width: 100%;
+  }
+  .phrases {
+    max-width: 300px;
+  }
+}
+@media (max-width: 768px){
+  h2{
+    font-size: 16px;
+  }
+  .phrases {
+    display: none;
+  }
+}
+@media (max-width: 420px){
+  .page::after {
+    bottom: 30px;
+  }
+}

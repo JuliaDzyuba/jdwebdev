@@ -1,0 +1,25 @@
+@import '../../sass/var';
+
+.btn {
+  display: inline-block;
+  padding: 15px 10px;
+  border: 1px solid $white-color;
+  color: $white-color;
+  background-color: inherit;
+  cursor: pointer;
+  max-width: 300px;
+  width: 300px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 400;
+  &:hover{
+    border: 1px solid $accent-color;
+    color: $accent-color;
+  }
+}
+
+@media (max-width: 420px){
+  .btn{
+    max-width: 260px;
+  }
+}
