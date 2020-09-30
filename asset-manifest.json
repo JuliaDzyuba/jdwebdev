@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jdwebdev/static/css/main.dc19603d.chunk.css",
+    "main.css": "/jdwebdev/static/css/main.ee6b3968.chunk.css",
     "main.js": "/jdwebdev/static/js/main.6a7d5170.chunk.js",
     "main.js.map": "/jdwebdev/static/js/main.6a7d5170.chunk.js.map",
     "runtime-main.js": "/jdwebdev/static/js/runtime-main.6d40cb5d.js",
@@ -8,9 +8,9 @@
     "static/js/2.c0717d7d.chunk.js": "/jdwebdev/static/js/2.c0717d7d.chunk.js",
     "static/js/2.c0717d7d.chunk.js.map": "/jdwebdev/static/js/2.c0717d7d.chunk.js.map",
     "index.html": "/jdwebdev/index.html",
-    "precache-manifest.b9cc4e7cc995a2672197aa1cc87fc240.js": "/jdwebdev/precache-manifest.b9cc4e7cc995a2672197aa1cc87fc240.js",
+    "precache-manifest.5239d75112b9267f4ed5adbe6a9b9148.js": "/jdwebdev/precache-manifest.5239d75112b9267f4ed5adbe6a9b9148.js",
     "service-worker.js": "/jdwebdev/service-worker.js",
-    "static/css/main.dc19603d.chunk.css.map": "/jdwebdev/static/css/main.dc19603d.chunk.css.map",
+    "static/css/main.ee6b3968.chunk.css.map": "/jdwebdev/static/css/main.ee6b3968.chunk.css.map",
     "static/js/2.c0717d7d.chunk.js.LICENSE.txt": "/jdwebdev/static/js/2.c0717d7d.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/jdwebdev/static/media/Wallpaper.6a6a61e8.png",
     "static/media/Header.scss": "/jdwebdev/static/media/linkedin.d098c93f.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.6d40cb5d.js",
     "static/js/2.c0717d7d.chunk.js",
-    "static/css/main.dc19603d.chunk.css",
+    "static/css/main.ee6b3968.chunk.css",
     "static/js/main.6a7d5170.chunk.js"
   ]
 }
