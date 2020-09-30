@@ -28,7 +28,7 @@ function Works() {
           </div>
         </div>
         <div className="work">
-          <img src="img/work3.jpg" alt="Earth"/>
+          <img src="img/work3.JPG" alt="Earth"/>
           <div className="work__overlay">
             <h3 className="work__name">Earth</h3>
             <p className="work__descr">Save the Earth presentation (school project, LP)</p>
@@ -39,7 +39,7 @@ function Works() {
         <div className="work">
           <img src="img/work5.jpg" alt="portfolio JDWebDev"/>
           <div className="work__overlay">
-            <h3 className="work__name">MySite</h3>
+            <h3 className="work__name">Portfolio</h3>
             <p className="work__descr">SPA (ReactJS)</p>
             <a href="https://juliadzyuba.github.io/jdwebdev" className="work__link">View</a>
 
