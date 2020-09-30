@@ -57,14 +57,13 @@ h2{
     z-index: -1;
     top: 0;
     left: 0;
-    height: 100vh;
-    // background-image: url(https://www.androidodex.com/wp-content/uploads/2017/10/Google-Pixel-2-Stock-Wallpaper-18.png);
+    height: 100%;
     background-image: url(../img/Wallpaper.png);
     background-size: cover;
     background-repeat: no-repeat;
     -webkit-box-shadow: 0 15px 30px 0 rgba(5, 16, 44, .15);
     box-shadow: 0 15px 30px 0 rgba(5, 16, 44, .15);
-    -webkit-animation: bg-animation 15s ease-in-out infinite;
+    -webkit-animation: bg-animation 60s ease-in-out infinite;
     animation: bg-animation 60s ease-in-out infinite;
   }
 
