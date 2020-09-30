@@ -10,7 +10,7 @@ function Works() {
       </h1>
       <div className="works__wrapper">
         <div className="work">
-          <img src="img/work1.jpg" alt="site Kavaservice"/>
+          <img src="img/work1.JPG" alt="site Kavaservice"/>
           <div className="work__overlay">
             <h3 className="work__name">KavaService</h3>
             <p className="work__descr">Landing Page</p>
@@ -19,7 +19,7 @@ function Works() {
           </div>
         </div>
         <div className="work">
-          <img src="img/work2.jpg" alt="newsportal TopNews"/>
+          <img src="img/work2.JPG" alt="newsportal TopNews"/>
           <div className="work__overlay">
             <h3 className="work__name">Newsportal TopNews</h3>
             <p className="work__descr">SPA (pet-project ReactJS)</p>
@@ -37,7 +37,7 @@ function Works() {
           </div>
         </div>
         <div className="work">
-          <img src="img/work5.jpg" alt="portfolio JDWebDev"/>
+          <img src="img/work5.JPG" alt="portfolio JDWebDev"/>
           <div className="work__overlay">
             <h3 className="work__name">Portfolio</h3>
             <p className="work__descr">SPA (ReactJS)</p>
@@ -46,7 +46,7 @@ function Works() {
           </div>
         </div>
         <div className="work">
-          <img src="img/work4.jpg" alt="Pulse"/>
+          <img src="img/work4.JPG" alt="Pulse"/>
           <div className="work__overlay">
             <h3 className="work__name">Pulsometers Promo-page</h3>
             <p className="work__descr">Landing Page</p>
