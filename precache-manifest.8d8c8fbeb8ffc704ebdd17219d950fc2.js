@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afee9c7dd6ad6e03f9db66737d788eea",
+    "revision": "bd3692dbce96a7aae4a66b66365c14ac",
     "url": "/jdwebdev/index.html"
   },
   {
-    "revision": "949c6c5c86b5d9dc086a",
-    "url": "/jdwebdev/static/css/main.ee6b3968.chunk.css"
+    "revision": "64a1f81219b7287f678d",
+    "url": "/jdwebdev/static/css/main.bedf8bbc.chunk.css"
   },
   {
     "revision": "93c2e5d0c8bec525adcf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jdwebdev/static/js/2.c0717d7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "949c6c5c86b5d9dc086a",
-    "url": "/jdwebdev/static/js/main.6a7d5170.chunk.js"
+    "revision": "64a1f81219b7287f678d",
+    "url": "/jdwebdev/static/js/main.52d5ac35.chunk.js"
   },
   {
     "revision": "941e928309372eb2ccb4",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d859602e4edf37f8e6fbce188479840",
     "url": "/jdwebdev/static/media/react.8d859602.png"
+  },
+  {
+    "revision": "a8d548f9ef8918388adb71c6d69afbf8",
+    "url": "/jdwebdev/static/media/telegram-plane-brands.a8d548f9.svg"
   }
 ]);
