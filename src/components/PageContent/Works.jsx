@@ -54,6 +54,15 @@ function Works() {
 
           </div>
         </div>
+        <div className="work">
+          <img src="img/work6.JPG" alt="shop home goods"/>
+          <div className="work__overlay">
+            <h3 className="work__name">HomeGoods shop</h3>
+            <p className="work__descr">(pet-project pure JS)</p>
+            <a href="https://juliadzyuba.github.io/shop_pureJS/" className="work__link">View</a>
+
+          </div>
+        </div>
         
       </div>
     </div>
