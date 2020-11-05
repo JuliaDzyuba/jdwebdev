@@ -22,11 +22,11 @@ function About() {
         <p className="text">
           A family person, therefore remote employment is preferred.
         </p>
-        <p className="text">
+        {/* <p className="text">
           More information in CV:
-        </p>
+        </p> */}
       </div>
-      <Button/>
+      {/* <Button/> */}
       <p className="phrases">
       I think everything starts with an idea. No matter how crazy it is, you should always try to bring it to life. <br/>Ann Makosinski
       </p>
