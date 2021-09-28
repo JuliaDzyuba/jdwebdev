@@ -38,11 +38,8 @@ function Skills() {
           <div className="skills__img"><img title="Photoshop" src="img/photoshop.png" alt="logo photoshop"/></div>
           <div className="skills__img"><img title="Figma" src="img/figma.png" alt="logo figma"/></div>
           <div className="skills__img"><img title="Avocode" src="img/avocode.png" alt="logo avocode"/></div>
-        </div>
+        </div>        
         
-        {/* <p className="text">
-          
-        </p> */}
       </div>
       <p className="phrases">
         The only true wisdom is in knowing you know nothing. <br/>  Socrates
