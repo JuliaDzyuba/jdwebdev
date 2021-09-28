@@ -19,6 +19,15 @@ function Works() {
           </div>
         </div>
         <div className="work">
+          <img src="img/Jabber.png" alt="Jabber podcasts"/>
+          <div className="work__overlay">
+            <h3 className="work__name">Jabber</h3>
+            <p className="work__descr">SPA (PERN)</p>
+            <a href="https://github.com/JuliaDzyuba" className="work__link">View</a>
+
+          </div>
+        </div>
+        <div className="work">
           <img src="img/work2.JPG" alt="newsportal TopNews"/>
           <div className="work__overlay">
             <h3 className="work__name">Newsportal TopNews</h3>
