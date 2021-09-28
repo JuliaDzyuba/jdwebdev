@@ -25,7 +25,7 @@ function Skills() {
           <div className="skills__img"><img title="Bootstrap" src="img/bootstrap.png" alt="logo bootstrap"/></div>
           <br/>
           <div className="skills__img"><img title="NodeJS" src="img/node_js.png" alt="logo node.js"/></div>
-          <div className="skills__img"><img title="ExpressJS" src="img/expressjs.png" alt="logo express.js"/></div>
+          <div className="skills__img"><img title="ExpressJS" src="img/express_logo.svg" alt="logo express.js"/></div>
           <div className="skills__img"><img title="SocketIO" src="img/socketio.svg" alt="logo socket.io"/></div>
           <br/>
           <div className="skills__img"><img title="MongoDB" src="img/mongoDB-logo.png" alt="logo mongoDB"/></div>
