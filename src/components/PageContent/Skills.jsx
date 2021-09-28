@@ -22,7 +22,7 @@ function Skills() {
           <div className="skills__img"><img title="React" src="img/react.png" alt="logo react"/></div>
           <div className="skills__img"><img title="Sass/Scss" src="img/sass.png" alt="logo sass"/></div>
           <div className="skills__img"><img title="Bootstrap" src="img/bootstrap.png" alt="logo bootstrap"/></div>
-          <div className="skills__img"><img title="JQuery" src="img/jquery.png" alt="logo jquery"/></div>
+          <div className="skills__img"><img title="NodeJS" src="img/Node.js_logo.png" alt="logo nodejs"/></div>
         </div>
         <h2>Build tools and other</h2>
         <div className="skills__wrapper">
