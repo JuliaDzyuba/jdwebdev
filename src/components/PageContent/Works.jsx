@@ -18,12 +18,12 @@ function Works() {
 
           </div>
         </div>
-        <div className="work">
+        <div className="work jabber">
           <img src="img/Jabber.png" alt="Jabber podcasts"/>
           <div className="work__overlay">
             <h3 className="work__name">Jabber</h3>
             <p className="work__descr">SPA (PERN)</p>
-            <a href="https://github.com/JuliaDzyuba" className="work__link">View</a>
+            <a href="https://juliadzyuba.github.io/jdwebdev/img/Jabber.png" className="work__link">View</a>
 
           </div>
         </div>
