@@ -20,9 +20,16 @@ function Skills() {
           <div className="skills__img"><img title="CSS3" src="img/css3.png" alt="logo css3"/></div>
           <div className="skills__img"><img title="JavaScript" src="img/javascript1.png" alt="logo javascript"/></div>
           <div className="skills__img"><img title="React" src="img/react.png" alt="logo react"/></div>
+          <div className="skills__img"><img title="Typescript" src="img/ts-logo-512.png" alt="logo typescript"/></div>
           <div className="skills__img"><img title="Sass/Scss" src="img/sass.png" alt="logo sass"/></div>
           <div className="skills__img"><img title="Bootstrap" src="img/bootstrap.png" alt="logo bootstrap"/></div>
-          <div className="skills__img"><img title="NodeJS" src="img/node_js.png" alt="logo nodejs"/></div>
+          <br/>
+          <div className="skills__img"><img title="NodeJS" src="img/node_js.png" alt="logo node.js"/></div>
+          <div className="skills__img"><img title="ExpressJS" src="img/expressjs.png" alt="logo express.js"/></div>
+          <div className="skills__img"><img title="SocketIO" src="img/socketio.png" alt="logo socket.io"/></div>
+          <br/>
+          <div className="skills__img"><img title="MongoDB" src="img/mongoDB-logo.png" alt="logo mongoDB"/></div>
+          <div className="skills__img"><img title="PostgreSQL" src="img/postgresql-logo.png" alt="logo postgresql"/></div>
         </div>
         <h2>Build tools and other</h2>
         <div className="skills__wrapper">
